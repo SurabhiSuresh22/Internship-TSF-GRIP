@@ -1,2 +1,3 @@
 # Internship-TSF-GRIP
-Task for Internship program at The Sparks Foundation
+<br> Author - Surabhi S
+<br>Task for Internship program at The Sparks Foundation
